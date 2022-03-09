@@ -1,0 +1,21 @@
+body{
+    background: rgb(230, 173, 173);
+}
+#header{
+    background-color: rgb(255, 93, 93);
+    color: white;
+}
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid#FF5D5D;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
